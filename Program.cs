@@ -1,5 +1,17 @@
 ﻿//Atividade1.Executar();
 //Atividade2.Executar();
-//Atividade3.Executar();
+// Atividade3.Executar();
 //Atividade4.Executar();
 //Atividade5.Executar();
+// AtividadeArray1.Executar();
+//AtividadeArray2.Executar();
+// AtividadeArray3.Executar();
+//AtividadeArray4.Executar();
+// AtividadeArray5.Executar();
+// AtividadeArray6.Executar();
+// AtividadeMatriz1.Executar();
+// AtividadeMatriz2.Executar();
+// AtividadeMatriz3.Executar();
+// AtividadeMatriz4.Executar();
+// AtividadeMatriz5.Executar();
+// AtividadeMatriz6.Executar();
